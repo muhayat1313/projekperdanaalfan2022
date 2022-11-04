@@ -6,7 +6,7 @@
 <h1>myfirts document</h1>
 
 <?php
-echo"Halo Gaes"
+echo"Halo cok";
 ?>
 
 </body>
